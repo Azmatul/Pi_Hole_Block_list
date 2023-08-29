@@ -710,3 +710,426 @@ block # media match
 
 # block zwizz army knife (anonymous)
 0.0.0.0 api.zwizzarmyknife.com
+
+
+
+
+-------------------------------------------------------------------------
+ADVERTISEMENT AND ANALYTICS PARTNERS SOME OF THESE WERE PROVIDED BY OTHER
+HOSTSFILES. SOME  WERE  FOUND IN THE APP OR BY ANALYZING  NETWORK TRAFFIC
+
+                    ALL BELOW SHOULD BE BLOCKED
+-------------------------------------------------------------------------
+# adjust ads
+adjust.com
+#app.adjust.com <- do not block
+atom.adjust.com
+events.adjust.com
+ulink.adjust.com
+view.adjust.com
+
+# admob ads
+a.admob.com
+ac1.vip.sc9.admob.com
+ac208.sc9.admob.com
+admob.biz
+admob.co.kr
+admob.co.nz
+admob.co.uk
+admob.com
+admob.de
+admob.dk
+admob.es
+admob.fi
+admob.fr
+admob.gr
+admob.it
+admob.jp
+admob.kr
+admob.mobi
+admob.no
+admob.pt
+admob.sg
+admob.tk
+admob.tw
+ads.admob.com
+analytics.admob.com
+api.admob.com
+api.admob.xiaomi.com
+b.admob.com
+broadcast.admob.com
+c.admob.com
+c1.vip.sc9.admob.com
+clk1.vip.sc9.admob.com
+clk2.vip.sc9.admob.com
+clk3.vip.sc9.admob.com
+cpm.admob.com
+cpm1.admob.com
+cpm1.vip.sc9.admob.com
+cpm2.admob.com
+cpm2.vip.sc9.admob.com
+cpm3.admob.com
+cpm3.vip.sc9.admob.com
+d.admob.com
+dep.admob.com
+dev1.vip.sc9.admob.com
+developer.admob.com
+e.admob.com
+eng.admob.com
+f.admob.com
+g.admob.com
+games.admob.com
+ge-0-0-1-edge1.sc9.admob.com
+ge-0-0-43-crs1.sc9.admob.com
+gw.admob.com
+h.admob.com
+i.admob.com
+j.admob.com
+jp.admob.com
+k.admob.com
+l.admob.com
+m.admob.com
+media.admob.com
+metrics.admob.com
+mm.admob.com
+mm1.vip.sc1.admob.com
+mm1.vip.sc9.admob.com
+mm104.sc9.admob.com
+mmv.admob.com
+n.admob.com
+network.admob.com
+o.admob.com
+p.admob.com
+p1.vip.sc9.admob.com
+paix1.sc1.admob.com
+pixel.admobclick.com
+pt.admob.com
+q.admob.com
+r.admob.com
+r2.vip.sc9.admob.com
+rmd.admob.com
+s.admob.com
+sc1.admob.com
+sc9.admob.com
+smtp.admob.com
+smtp2.admob.com
+t.admob.com
+tap1.vip.sc9.admob.com
+tic1.vip.sc9.admob.com
+tracking.admobsphere.com
+tx102.sc9.admob.com
+tx103.sc9.admob.com
+u.admob.com
+ukr.admob.com
+v.admob.com
+vip.sc9.admob.com
+w.admob.com
+wap.admob.com
+waps.admob.com
+wendy.admob.com
+www.admob.com
+www.admob.com.akadns.net
+www1.vip.sc9.admob.com
+x.admob.com
+y.admob.com
+z.admob.com
+zhcn.admob.com
+
+# akamai technologies
+a1294.w20.akamai.net
+a1843.g.akamai.net
+a50.g2.akamai.net
+bsams.eyeblaster.akadns.net
+e7876.dscg.akamaiedge.net
+e8218.dscb1.akamaiedge.net
+
+# amazon
+na.gmtdmp.com
+d2gi7ultltnc2u.cloudfront.net
+lb1-217593028.us-east-1.elb.amazonaws.com
+rp-lb-766892831.us-east-1.elb.amazonaws.com
+server-54-230-216-203.mrs50.r.cloudfront.net
+
+# aol
+adserver.adtechus.com
+
+# appnexus
+a.adk2x.com
+adnxs.com
+adnxs.comadplexmedia.adk2x.com
+ams1-ib.adnxs.com
+ib.adnxs.com
+
+# ayden payments
+live.adyen.com
+
+# bounce exchange (anonymous)
+bounceexchange.com
+
+# comscore analytics
+admetrix.comscore.com
+api.comscore.com
+aser.comscore.com
+cdr.comscore.com
+cer.comscore.com
+comscore.net
+comscore.org
+comscoredatagems.com
+comscoredatamine.com
+comscoredirect.net
+comscorenetworks.net
+ia1.comscore.com
+ia2.comscore.com
+iad.comscore.com
+im.comscore.com
+images.comscore.com
+labs.comscore.com
+mail2.comscore.com
+marketer.comscore.com
+mx0.comscore.com
+mx1.comscore.com
+mx2.comscore.com
+my.comscore.com
+mycomscore.com
+mymetrix.comscore.com
+myresearch.comscore.com
+ord.comscore.com
+postbuy.comscore.com
+proclarity.comscore.com
+qat.comscore.com
+siterecruit.comscore.com
+svn.comscore.com
+www.comscore.com
+www.mycomscore.net
+
+# crashlytics
+crashlytics.163.com
+crashlytics.com
+crashlytics.twimg.com
+e.crashlytics.com
+reports.crashlytics.com
+settings-crashlytics-1410998606.us-east-1.elb.amazonaws.com
+settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com
+settings.crashlytics.com
+
+# data protected
+combine.urbanairship.com
+
+# drawbridge
+ads-west-colo.adsymptotic.com
+
+# geotrust
+gtssl2-ocsp.geotrust.com
+
+# google analytics
+analytics.google.com
+www.googletagservices.com
+
+# google ads
+ad.doubleclick.net
+adclick.g.doublecklick.net
+ade.googlesyndication.com
+adservice.google.com
+doubleclick.net
+ee-in-f95.1.e100.net
+gcdn.2mdn.net
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+googleadservices.com
+s0.2mdn.net
+pagead.l.doubleclick.net
+pagead-googlehosted.l.google.com
+pagead2.googlesyndication.com
+pagead46.l.doubleclick.net
+partner.googleadservices.com
+partnerad.l.doubleclick.net
+pubads.g.doubleclick.net
+s0-2mdn-net.l.google.com
+s0.2mdn.net
+securepubads.g.doubleclick.net
+tpc.googlesyndication.com
+video-ad-stats.googlesyndication.com
+www.googleadservices.com
+
+# integral ad science
+anycast.pixel.adsafeprotected.com
+
+# intercom ads
+api-iam.intercom.io
+api-ping.intercom.io
+api.intercom.io
+developers.intercom.io
+engineering.intercom.io
+funky.staging.intercom.io
+intercom.io
+internal.intercom.io
+leadvisualdesigner.intercom.io
+mobile-sdk-api.intercom.io
+muster-sandbox.intercom.io
+nexus-testing.intercom.io
+nexus-websocket-a.intercom.io
+nexus.intercom.io
+orientation.internal.intercom.io
+status.intercom.io
+store.intercom.io
+terraform-modules-test.intercom.io
+via.intercom.io
+w.intercom.io
+widget.intercom.io
+woody.intercom.io
+www.intercom.io
+
+# ipinfo.io api
+ipinfo.io
+
+# iterable
+links.iterable.com
+
+# kantar operations
+core.insightexpressai.com
+
+# leanlab
+track.leanlab.co (tracking pixel)
+
+# longtail ad solutions (jwplayer also used for ads)
+content.bitsontherun.com
+v.jwpcdn.com
+
+# media innovation group
+eu-gmtdmp.gd1.mookie1.com
+
+# media match
+media-match.com
+
+# mobileapptracking ads (now tune)
+ab.tune.com
+academy.tune.com
+beta.tune.com
+click.api.cp.tune.com
+configuration.ma.tune.com
+corp.tune.com
+cp.tune.com
+dev.lab.tune.com
+event.api.cp.tune.com
+lab.tune.com
+labs.tune.com
+ma.tune.com
+mkt.tune.com
+multiverse.tune.com
+ops-prod.us-west-2.k8s.ops.tune.com
+playlist.ma.tune.com
+request.api.cp.tune.com
+stage.tune.com
+support.tune.com
+tune.com
+ui.cp.tune.com
+updates.tune.com
+www.cp.tune.com
+www.ui.cp.tune.com
+
+# mixpanel analytics
+api.mixpanel.com
+decide.mixpanel.com
+mixpanel.com
+switchboard.mixpanel.com
+www.mixpanel.com
+
+# moatads / moatanalytics
+adgrx.moatads.com
+afs.moatads.com
+apx.moatads.com
+bd.moatads.com
+c-evt.moatads.com
+dbg52463.moatads.com
+ejs.moatads.com
+evt.moatads.com
+fs.moatads.com
+geo.moatads.com
+jm.moatads.com
+js.moatads.com
+json.moatads.com
+jsonp.moatads.com
+logtest.moatads.com
+moat.pxl.ace.advertising.com
+moatads.com
+moatads.com.edgekey.net
+pixel.moatads.com
+pool3.moatads.com
+pool5.moatads.com
+post.update.moatads.com
+px.moatads.com
+quantcast584928381.s.moatpixel.com
+r.254a.comjs.moatads.com
+s-jsonp.moatads.com
+s.moatads.com
+s.update.moatads.com
+sejs.moatads.com
+svast.moatads.com
+svastx.moatads.com
+t.update.moatads.com
+tribpubdfp745347008913.s.moatpixel.com
+u.moatads.com
+update.moatads.com
+upv4.moatads.com
+v3.moatads.com
+v4.moatads.com
+vast.moatads.com
+vastx.moatads.com
+vpb0.moatads.com
+vu.moatads.com
+wildcard.moatads.com.edgekey.net
+www.moatads.com
+www.upv4.moatads.com
+y.moatads.com
+yj.moatads.com
+yt.moatads.com
+yts.moatads.com
+z.moatads.com
+
+# block myvisualiq tracker (used in web player)
+t.myvisualiq.net
+vt.myvisualiq.net
+
+# omaze
+omaze.com
+www.omaze.com
+
+# pubmatic
+ads.pubmatic.com
+gads.pubmatic.com
+gads22000.pubmatic.com
+showads33000.pubmatic.com
+
+# ravenjs (debugging etc)
+cdn.ravenjs.com
+
+# scorecardresearch
+b.scorecardresearch.com
+sb.scorecardresearch.com
+udm.scorecardresearch.com
+
+# sizmek technologies
+bs.serving-sys.com
+ds.serving-sys.com
+
+# telia
+cs126.wpc.teliasoneracdn.net
+cs283.wpc.teliasoneracdn.net
+
+# the whiz marketing
+seen-on-screen.thewhizmarketing.com
+
+# verizon
+cs126.wpc.edgecastcdn.net
+cs934.wac.thetacdn.net
+
+# voicefive
+ar.voicefive.com
+sb.voicefive.com
+
+# yahoo adflurry
+ads.flurry.com
+media-router-flurry7.prod.media.wg1.b.yahoo.com
+
+# zwizz army knife (anonymous)
+api.zwizzarmyknife.com
